@@ -19,7 +19,7 @@ h1, h2, h3{
 
 .content{
   max-width: 800px;
-  margin: 0 auto;
+  margin: 0 10px;
 }
 
 .image-center{
