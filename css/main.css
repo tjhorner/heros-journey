@@ -28,6 +28,7 @@ h1, h2, h3{
 
 .image-center img{
   max-height: 300px;
+  max-width: 100%;
   border-radius: 2px;
 }
 
